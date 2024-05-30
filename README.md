@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Geo Jose P</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">A passionate Fullstack Developer from India</h3>
 
 - 🔭 I’m currently working on **NextJS**
 
@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **ML&AI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/GeoJose19](https://github.com/GeoJose19)
+- 👨‍💻 All of my projects are available at [https://github.com/GeoJose19?tab=repositories](https://github.com/GeoJose19?tab=repositories)
 
 - 💬 Ask me about **React, SQL, Supabase, CSS**
 
