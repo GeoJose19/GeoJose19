@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **geojosep123@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Vkau_jZQ_QLNHahDI46FPi5bkcKUh8uT/view](https://drive.google.com/file/d/1Vkau_jZQ_QLNHahDI46FPi5bkcKUh8uT/view)
+- 📄 Know about my experiences [https://rb.gy/hyv95x](https://rb.gy/hyv95x)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
