@@ -9,8 +9,6 @@
 
 - 🤝 I’m looking for help with **ML&AI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/GeoJose19?tab=repositories](https://github.com/GeoJose19?tab=repositories)
-
 - 💬 Ask me about **React, SQL, Supabase, CSS**
 
 - 📫 How to reach me **geojosep123@gmail.com**
